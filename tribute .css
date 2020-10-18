@@ -1,0 +1,13 @@
+
+body {
+      background-image: url("https://images7.alphacoders.com/652/652809.png");
+
+}
+  h1 {color: BLUE} 
+a:visited{
+  color: blue;
+}
+a:hover{
+  color: green;
+}
+<style>
